@@ -480,8 +480,10 @@ You can also start Serverpod manually by running:
 
 
 <details>
-<summary>code ./mypod/mypod_server/lib/src/endpoints/test_endpoint.dart</summary>
+<summary>create test endpoint</summary>
 
+
+> code ./mypod/mypod_server/lib/src/endpoints/test_endpoint.dart
 ```
 import 'package:serverpod/serverpod.dart';
 
