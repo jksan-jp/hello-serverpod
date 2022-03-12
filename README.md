@@ -494,3 +494,16 @@ class TestEndpoint extends Endpoint {
 ```
 
 </details>
+
+<details>
+<summary>serverpod generate</summary>
+
+```
+ !  ~/g/j/hello-serverpod   *+  mypod/mypod_server  serverpod generate
+Generating classes
+Generating protocol
+Dart format
+```
+
+</details>
+
